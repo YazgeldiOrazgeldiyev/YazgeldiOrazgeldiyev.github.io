@@ -34,9 +34,9 @@
     
     <item>
       <title>Первая неделя</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://example.com/post/1week/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://example.com/post/1week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;За неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
@@ -180,7 +180,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-127895463&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-485637912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -190,7 +190,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-127895463&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-485637912&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
