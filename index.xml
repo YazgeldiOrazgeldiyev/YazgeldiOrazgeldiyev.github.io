@@ -33,15 +33,105 @@
     </item>
     
     <item>
-      <title>Первая неделя</title>
-      <link>https://example.com/post/1week/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/1week/</guid>
+      <title>Создание презентации</title>
+      <link>https://example.com/post/create-presentation/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/create-presentation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Создание презентации:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Откройте приложение PowerPoint.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В левой области выберите Создать.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выберите один из вариантов:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Чтобы создать презентацию с нуля, выберите Пустая презентация.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Чтобы использовать подготовленный макет, выберите один из шаблонов.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Чтобы ознакомиться с советами по использованию PowerPoint, выберите Принять тур, а затем — Создать.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Добавление слайда&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;В эскизах на левой панели выберите слайд, на который вы хотите подписаться.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;На вкладке Главная в разделе Слайды выберите Создать слайд.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В разделе Слайды выберите Макет, а затем выберите нужный макет в меню.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Добавление и форматирование текста&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Поместите курсор в текстовое поле и введите что-то.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выделите текст, а затем выберите один или несколько параметров в разделе Шрифт на вкладке Главная , например Шрифт, Увеличить размер шрифта, Уменьшить размер шрифта, Полужирный, Курсив, Подчеркивание и т. д.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Чтобы создать маркированный или нумерованный список, выделите текст, а затем выберите элемент Маркеры или Нумерация.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Добавление рисунка, фигуры и многого другого&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Перейдите на вкладку Вставка.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Добавление рисунка&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В разделе Изображения выберите Рисунки.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В меню Вставка рисунка из выберите нужный источник.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Найдите нужный рисунок, выберите его и нажмите кнопку Вставить.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Чтобы добавить иллюстрации, выполните приведенные ниже действия.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;В разделе Иллюстрации выберите Фигуры, Значки, Трехмерные модели, SmartArt или Диаграмма.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В диалоговом окне, открывшемся при щелчке одного из типов иллюстраций, выберите нужный элемент и следуйте указаниям, чтобы вставить его.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Третья неделя</title>
+      <link>https://example.com/post/2week/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/2week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;За неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
-&lt;li&gt;Я научился оформлять и видоизменять страничку собственного сайта.&lt;/li&gt;
-&lt;li&gt;Оформил все, что необходимо сделать и загрузил на Гит все файлы.&lt;/li&gt;
+&lt;li&gt;За 3-ью неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
+&lt;li&gt;Я научился прикреплять ссылки на сайты своих учетных записей&lt;/li&gt;
+&lt;li&gt;За это время я работал с кодом на Питон на виртуальной машине и проверял ее правильность&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
@@ -52,7 +142,7 @@
     <item>
       <title>Управление версиями. Git</title>
       <link>https://example.com/post/gitversion/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/gitversion/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Что такое «система контроля версий» и почему это важно? Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любых типов файлов.&lt;/p&gt;
@@ -70,6 +160,23 @@
 Здесь в игру вступают распределённые системы контроля версий (Distributed Version Control System, далее DVCS). В DVCS (таких как Git, Mercurial, Bazaar или Darcs) клиенты не просто скачивают снимок всех файлов (состояние файлов на определённый момент времени) — они полностью копируют репозиторий. В этом случае, если один из серверов, через который разработчики обменивались данными, умрёт, любой клиентский репозиторий может быть скопирован на другой сервер для продолжения работы. Каждая копия репозитория является полным бэкапом всех данных.&lt;/p&gt;
 &lt;p&gt;Распределённый контроль версий
 Более того, многие DVCS могут одновременно взаимодействовать с несколькими удалёнными репозиториями, благодаря этому вы можете работать с различными группами людей, применяя различные подходы единовременно в рамках одного проекта. Это позволяет применять сразу несколько подходов в разработке, например, иерархические модели, что совершенно невозможно в централизованных системах.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Первая неделя</title>
+      <link>https://example.com/post/1week/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/1week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;За неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
+&lt;li&gt;Я научился оформлять и видоизменять страничку собственного сайта.&lt;/li&gt;
+&lt;li&gt;Оформил все, что необходимо сделать и загрузил на Гит все файлы.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
@@ -280,113 +387,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Создание презентации</title>
-      <link>https://example.com/post/create-presentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/create-presentation/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Создание презентации:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Откройте приложение PowerPoint.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;В левой области выберите Создать.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Выберите один из вариантов:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Чтобы создать презентацию с нуля, выберите Пустая презентация.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Чтобы использовать подготовленный макет, выберите один из шаблонов.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Чтобы ознакомиться с советами по использованию PowerPoint, выберите Принять тур, а затем — Создать.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Добавление слайда&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;В эскизах на левой панели выберите слайд, на который вы хотите подписаться.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;На вкладке Главная в разделе Слайды выберите Создать слайд.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;В разделе Слайды выберите Макет, а затем выберите нужный макет в меню.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Добавление и форматирование текста&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Поместите курсор в текстовое поле и введите что-то.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Выделите текст, а затем выберите один или несколько параметров в разделе Шрифт на вкладке Главная , например Шрифт, Увеличить размер шрифта, Уменьшить размер шрифта, Полужирный, Курсив, Подчеркивание и т. д.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Чтобы создать маркированный или нумерованный список, выделите текст, а затем выберите элемент Маркеры или Нумерация.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Добавление рисунка, фигуры и многого другого&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Перейдите на вкладку Вставка.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Добавление рисунка&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;В разделе Изображения выберите Рисунки.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;В меню Вставка рисунка из выберите нужный источник.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Найдите нужный рисунок, выберите его и нажмите кнопку Вставить.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Чтобы добавить иллюстрации, выполните приведенные ниже действия.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;В разделе Иллюстрации выберите Фигуры, Значки, Трехмерные модели, SmartArt или Диаграмма.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;В диалоговом окне, открывшемся при щелчке одного из типов иллюстраций, выберите нужный элемент и следуйте указаниям, чтобы вставить его.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Третья неделя</title>
-      <link>https://example.com/post/2week/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/2week/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;За 3-ью неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
-&lt;li&gt;Я научился прикреплять ссылки на сайты своих учетных записей&lt;/li&gt;
-&lt;li&gt;За это время я работал с кодом на Питон на виртуальной машине и проверял ее правильность&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
