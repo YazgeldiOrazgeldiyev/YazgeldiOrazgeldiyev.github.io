@@ -33,6 +33,81 @@
     </item>
     
     <item>
+      <title>C&#43;&#43; and environment</title>
+      <link>https://example.com/project/c&#43;&#43;/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/c&#43;&#43;/</guid>
+      <description>&lt;p&gt;Various programs for programming in c++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python and environment</title>
+      <link>https://example.com/project/python/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/python/</guid>
+      <description>&lt;p&gt;Various programs for programming in Python&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Четвертая неделя</title>
+      <link>https://example.com/post/3week/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/3week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;За 4-ую неделю я успел устать от лабораторных работ&lt;/li&gt;
+&lt;li&gt;Я изменил мои проекты по разным языкам программирования&lt;/li&gt;
+&lt;li&gt;Практиковал работу с кодом на языке С.&lt;/li&gt;
+&lt;li&gt;Запускал скрипты через командную строку&lt;/li&gt;
+&lt;li&gt;Понял, что если выделять хоть пару часов на учебу, оказывается все можно успеть сделать в срок&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>https://example.com/post/spl/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/spl/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Сегодня в мире существуют сотни языков программирования — как среди них выбрать наиболее подходящий для изучения? Публикуем список из 20 наиболее популярных вариантов. Перечень составлен на основе индексов TIOBE, Google Trends и StackOverflow Trends, языки расположены в алфавитном порядке.&lt;/p&gt;
+&lt;p&gt;Bash
+Сценарии командной оболочки Unix, созданные Кеном Томпсоном в начале 1970-х годов, тесно связаны с языком программирования C. Bash — обновленная оболочка Unix — была впервые выпущена в конце 80-х годов и до сих пор активно разрабатывается. На Bash обычно пишутся сценарии конфигурации сервера, поэтому это хороший выбор для работы в современных облачных средах с контейнерным хранением и микросервисами. Скрипты командной оболочки используются достаточно часто, так что знание этого языка пригодится.&lt;/p&gt;
+&lt;p&gt;Также стоит обратить внимание на zsh, который в настоящее время является оболочкой по умолчанию в macOS.&lt;/p&gt;
+&lt;p&gt;Области применения: администрирование сервера, инструменты интерфейса командной строки, DevOps, виртуализация.&lt;/p&gt;
+&lt;p&gt;COBOL
+Один из старейших языков, используемых до сих пор, был создан Грейс Хоппер в конце 1950-х годов и предназначался для стандартизации разработки крупномасштабных бизнес-приложений на компьютерах. Блестящая концепция, которая до сих пор применяется в кроссплатформенных SDK. Через системы COBOL проходят невероятные 95% транзакций ATM, причем многие из этих устройств работают круглосуточно 365 дней в году. Такие поставщики устройств, как IBM, разрабатывают более мощные машины, предназначенные для COBOL, но продолжают обслуживать и обновлять существующие системы из-за затрат и рисков, связанных с их заменой. В ближайшее время COBOL никуда не уйдет. Это хороший выбор для тех, кто хочет работать с клиентами из финансовой сферы.&lt;/p&gt;
+&lt;p&gt;Области применения: банковское дело / финансы, международные корпорации, правительства.&lt;/p&gt;
+&lt;p&gt;C/C++
+Эти языки часто занимают вершины различных рейтингов — их ценят за мощность и быстродействие. C был создан в начале 1970-х годов Деннисом Ритчи, C ++ в 1985 году разработал Бьёрн Страуструп. Сегодня два этих языка лежат в основе всего: от ОС и игр до современных научных вычислений и машинного обучения. C и C++ хорошо подходят для требовательных приложений, которым важны низкоуровневый доступ к оборудованию и производительность. Для освоения этих языков нужно время и определенные усилия.&lt;/p&gt;
+&lt;p&gt;Область применения: разработка ОС / SDK, встроенные устройства, игровые движки, наука.&lt;/p&gt;
+&lt;p&gt;C#
+C#, выпущенный Microsoft в 2000 году, был разработан Андерсом Хейлсбергом как кроссплатформенный язык объектно-ориентированного программирования. Сейчас он часто используется для разработки бизнес-приложений, API, игр и многого другого. Благодаря широкому набору функций этот язык подходит для работы с графикой и других задач асинхронного программирования.&lt;/p&gt;
+&lt;p&gt;Области применения: корпоративные приложения, разработка программного и пользовательского интерфейса, игры, графика.&lt;/p&gt;
+&lt;p&gt;Dart
+Современный язык, разработанный в Google для создания мобильных, десктопных, веб-и серверных приложений. Его создатель Ларс Бак также придумал JavaSript Engine V8. Dart напоминает другие современные языки объектно-ориентированного программирования — C #, TypeScript и Java — и предоставляет обширный набор функций, подходящих для определения сложных взаимодействий, асинхронных операций, анимации и других задач.&lt;/p&gt;
+&lt;p&gt;Области применения: кроссплатформенные приложения, облачные сервисы / корпоративные системы, игры, графика.&lt;/p&gt;
+&lt;p&gt;Fortran
+Fortran, разработанный в IBM в 1950-х годах Джоном Бакусом, — это язык общего назначения, который был создан для проведения научных и инженерных работ. Он до сих пор широко используется в этих целях, в том числе для контрольного тестирования самых быстрых суперкомпьютеров в мире. Он также применялся в космических и физических исследованиях и моделировании погоды.&lt;/p&gt;
+&lt;p&gt;Области применения: аэрокосмическая/оборонная промышленность, научные вычисления, численный анализ.&lt;/p&gt;
+&lt;p&gt;Java
+Java — это ООП-язык общего назначения, разработанный в 1990-х годах Джеймсом Гослингом в Sun (сейчас принадлежит Oracle) и предназначенный для компиляции в байт-код для запуска на виртуальной машине Java. К 2020 году к ним относятся практически все виды устройств — от телевизоров и игровых приставок до серверов, телефонов и даже кухонных приборов. Язык широко распространен в корпорациях и университетах, что сделало его популярным как среди начинающих программистов, так и среди опытных разработчиков.&lt;/p&gt;
+&lt;p&gt;Области применения: корпоративные приложения, встроенные системы, веб-сервисы, игры.&lt;/p&gt;
+&lt;p&gt;JavaScript
+JavaScript разработал Брэндон Айх в 1990-х годах, чтобы добавлять выполнение скриптов на сайты. Сегодня это универсальный язык веб-интерфейса с мощными стандартизированными функциями, которые поддерживаются всеми основными браузерами. JavaScript соответствует стандарту EcmaScript, который обновляется каждые несколько лет с добавлением новых спецификаций языка. Кроме того, JavaScript часто используется для разработки серверных служб и API, мобильных приложений, игр и другого программного обеспечения. Это отличный выбор для изучения и дальнейшего совершенствования.&lt;/p&gt;
+&lt;p&gt;Области применения: фулстэк-разработка, облачные сервисы / контейнерное хранение, игры, утилиты.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yazgeldi Orazgeldiyev&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/YazgeldiOrazgeldiyev/study_2022-2023_os-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISO&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Создание презентации</title>
       <link>https://example.com/post/create-presentation/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
@@ -130,7 +205,7 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;За 3-ью неделю я смог выполнить все необходимые задания по Операционным системам.&lt;/li&gt;
-&lt;li&gt;Я научился прикреплять ссылки на сайты своих учетных записей&lt;/li&gt;
+&lt;li&gt;Я научился прикреплять ссылки на сайты своих учетных записей.&lt;/li&gt;
 &lt;li&gt;За это время я работал с кодом на Питон на виртуальной машине и проверял ее правильность&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
@@ -320,27 +395,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
